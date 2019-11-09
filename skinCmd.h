@@ -1,5 +1,5 @@
 #pragma once
-#define WITHCGAL
+//#define WITHCGAL
 #include <maya/MMessage.h>
 #include <maya/MPxCommand.h>
 #include <maya/MArgList.h>
